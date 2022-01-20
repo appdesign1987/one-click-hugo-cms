@@ -7,27 +7,15 @@ blurb:
   text: Welkom! Dit is mijn verhaal over mij zelf, mijn gezin en alles wat ik mee
     maak.
 intro:
-  heading: "Bekijk "
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Dit is mijn gezin
+  text: >
+    Nu nog met z'n drietjes. Maar over niet al te lange tijd komen daar twee
+    kindjes bij.
 products:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  - image: img/s86403-195-van-265.jpg
+    text: De aankomende gezins uitbreiding met de tweeling is natuurlijk spannend
+      maar we hebben er veel zin in!
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Wil je meer over ons lezen?
+  text: " Klik dan op de knop hier naast voor de blog!"
 ---
