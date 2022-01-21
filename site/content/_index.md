@@ -15,7 +15,4 @@ products:
   - image: img/s86403-195-van-265.jpg
     text: Samen met z'n drietjes en zomenteen met z'n vijven maken we van alles mee!
       Ben je benieuwd wat? Klik dan snel op de knop hiernaast!
-values:
-  heading: Wil je meer over ons lezen?
-  text: " Klik dan op de knop hier naast voor de blog!"
 ---
