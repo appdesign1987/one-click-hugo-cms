@@ -1,5 +1,5 @@
 ---
-title: Welkom op jeroenvd.nl
+title: Welkom...
 subtitle: " "
 image: img/vladislav-klapin-symzoee8qua-unsplash-1-.jpg
 blurb:
