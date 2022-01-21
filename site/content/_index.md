@@ -9,9 +9,7 @@ blurb:
     Welkom! Dit is mijn verhaal over mij zelf en mijn gezin.
 intro:
   heading: En dit zijn wij
-  text: >
-    Nu nog met z'n drietjes. Maar over niet al te lange tijd komt daar een
-    tweeling bij!
+  text: " "
 products:
   - image: img/s86403-218-van-265.jpg
     text: " "
