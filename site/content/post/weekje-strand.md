@@ -1,6 +1,6 @@
 ---
 title: Weekje strand
-date: 2022-01-21T19:30:23.491Z
+date: 2021-08-27T18:30:23.491Z
 description: "Een aantal weken geleden waren wij een weekje op het strand in
   Domburg. Daar heb ik onderstaande foto gemaakt:"
 image: img/mvimg_20210826_103609-01.jpeg
