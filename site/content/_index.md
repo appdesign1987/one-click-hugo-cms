@@ -4,10 +4,11 @@ subtitle: " "
 image: img/vladislav-klapin-symzoee8qua-unsplash-1-.jpg
 blurb:
   heading: Jeroenvd.nl
-  text: Welkom! Dit is mijn verhaal over mij zelf, mijn gezin en alles wat ik mee
-    maak.
+  text: |-
+    
+    Welkom! Dit is mijn verhaal over mij zelf en mijn gezin.
 intro:
-  heading: En dit is mijn gezin
+  heading: En dit zijn wij
   text: >
     Nu nog met z'n drietjes. Maar over niet al te lange tijd komt daar een
     tweeling bij!
