@@ -13,9 +13,11 @@ intro:
     Nu nog met z'n drietjes. Maar over niet al te lange tijd komt daar een
     tweeling bij!
 products:
+  - image: img/logo.png
+    text: " "
   - image: img/s86403-195-van-265.jpg
     text: Samen met z'n drietjes en zomenteen met z'n vijven maken we van alles mee!
-      Ben je benieuwd wat? Klik dan snel op de knop hiernaast!
+      Ben je benieuwd wat? Klik dan snel op de knop hieronder!
 values:
   heading: " "
   text: " "
