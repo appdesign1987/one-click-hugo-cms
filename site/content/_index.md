@@ -7,6 +7,7 @@ blurb:
   text: |-
     
     Welkom! Dit is mijn verhaal over mij zelf en mijn gezin.
+    Maar ook over mijn hobby's ict en fotografie. Kortom genoeg te lezen!
 intro:
   heading: En dit zijn wij
   text: " "
