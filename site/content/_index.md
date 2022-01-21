@@ -1,6 +1,6 @@
 ---
-title: Bekijk de laatste posts
-subtitle: Waar geen dag hetzelfde is!
+title: Welkom op jeroenvd.nl
+subtitle: " "
 image: img/vladislav-klapin-symzoee8qua-unsplash-1-.jpg
 blurb:
   heading: Jeroenvd.nl
@@ -15,4 +15,7 @@ products:
   - image: img/s86403-195-van-265.jpg
     text: Samen met z'n drietjes en zomenteen met z'n vijven maken we van alles mee!
       Ben je benieuwd wat? Klik dan snel op de knop hiernaast!
+values:
+  heading: " "
+  text: " "
 ---
