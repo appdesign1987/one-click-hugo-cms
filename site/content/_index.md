@@ -14,8 +14,8 @@ products:
   - image: img/s86403-218-van-265.jpg
     text: " "
   - image: img/s86403-195-van-265.jpg
-    text: Samen met z'n drietjes en zomenteen met z'n vijven maken we van alles mee!
-      Ben je benieuwd wat? Klik dan snel op de knop hieronder!
+    text: Samen met z'n drietjes maken we van alles mee! Ben je benieuwd wat? Klik
+      dan snel op de knop hieronder!
 values:
   heading: " "
   text: " "
